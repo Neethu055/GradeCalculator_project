@@ -41,5 +41,3 @@ alert(
     "\nGrade:" +grade
 )
 
-85
-
