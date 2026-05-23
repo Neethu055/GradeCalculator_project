@@ -36,7 +36,7 @@ else{
 }
 
 alert(
-    "Total Marks: " +total+
+    "Total Marks: "+total+
     "\nAverage Marks: " +avg50+
     "\nGrade:" +grade
 )
